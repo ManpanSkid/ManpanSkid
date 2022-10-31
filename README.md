@@ -1,1 +1,1 @@
-- 👋 Hi, I’m a SKid
+- 👋 Hi, I’m a Skid
