@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hi, I’m a Skid</h1>
-<p align="center">and I don't like Java</p>
+<h1>👋 Hi, I’m a Skid</h1>
 
-<picture align="center">
-<source 
+<picture>
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=manpanskid&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
